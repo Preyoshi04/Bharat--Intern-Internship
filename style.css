@@ -1,0 +1,264 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home
+{
+    padding-bottom: 80px;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.logo img {
+    height: 100px;
+    width: 300px;
+    margin-left: 500px;
+}
+.others button {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+ .material-symbols-outlined {
+    font-size: 30px;
+    margin-left: 5px;
+    cursor: pointer;
+    float: left;
+}
+#icon
+{
+    font-size: 30px;
+    float: right;
+}
+.language {
+  background-color: transparent;
+  border: solid 2px white;
+  margin-right: 30px;
+}
+.signin {
+    background-color: rgb(241, 8, 8);
+    cursor: pointer;
+    margin-right: 500px;
+}
+.body
+{
+    text-align: center;
+    color: white;
+}
+.body h1
+{
+    font-size: 100px;
+    margin-top: 500px;
+    margin-bottom: 50px;
+}
+.body .text2
+{
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.body .text3
+{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.body input
+{
+    font-size: 30px;
+    padding: 25px;
+    width: 700px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid white;
+}
+.body button
+{
+    background-color: rgb(241, 8, 8);
+    font-size: 30px;
+    padding: 25px;
+    width: 300px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+.ruler
+{
+    background-color: grey;
+    height: 10px;
+}
+.second
+{
+    background-color: black;
+    height: auto;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+.left , .segment
+{
+    height: 800px;
+    margin-top: 50px;
+}
+.left h2
+{
+    font-size: 80px;
+   letter-spacing: 1px;
+  margin: 10% 20%;
+}
+.left p
+{
+    font-size: 40px;
+}
+.left img
+{
+    height: 650px;
+   border-radius: 20px;
+}
+.third
+{
+    background-color: black;
+    height: auto;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+.segment h2
+{
+    font-size: 80px;
+   letter-spacing: 1px;
+  margin: 10% 20%;
+}
+.segment p
+{
+    font-size: 40px;
+}
+.segment img
+{
+    height: 650px;
+   border-radius: 20px;
+}
+.fourth
+{
+    background-color: black;
+    height: auto;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+.segment1
+{
+    height: 800px;
+    margin-top: 50px;
+}
+.segment1 h2
+{
+    font-size: 80px;
+   letter-spacing: 1px;
+  margin: 10% 20%;
+}
+.segment1 p
+{
+    font-size: 40px;
+}
+.segment1 img
+{
+    height: 650px;
+   border-radius: 20px;
+}
+.fifth
+{
+    background-color: black;
+    height: auto;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+.segment2 h2
+{
+    font-size: 80px;
+   letter-spacing: 1px;
+  margin: 10% 20%;
+}
+.segment2 p
+{
+    font-size: 40px;
+}
+.segment2 img
+{
+    height: 650px;
+   border-radius: 20px;
+}
+.qna
+{
+    background-color: black;
+    height: auto;
+    padding: 80px;
+    text-align: center;
+    color: white;
+}
+.qna h2
+{
+    font-size: 80px;
+   letter-spacing: 1px;
+  font-weight: 600;
+  margin: 50px 10px;
+}
+.questions 
+{
+    height: 100px;
+    background-color: rgb(46, 44, 44);
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+}
+.questions p
+{
+    font-size: 40px;
+    float: left;
+    margin-left: 20px;
+}
+ span
+{
+    font-size: 60px;
+    float: right;
+    font-weight: 200;
+   margin-right: 20px;
+}
+.qna .text
+{
+    margin-top: 40px;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.qna button
+{
+    background-color: rgb(241, 8, 8);
+    font-size:30px;
+    padding: 25px;
+    width: 300px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+.qna input
+{
+    font-size: 30px;
+    padding: 25px;
+    width: 700px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid white;
+}
